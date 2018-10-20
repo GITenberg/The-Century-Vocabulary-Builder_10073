@@ -874,7 +874,7 @@ and telegrams called for in 6 and 7.) Compare your first night letter in 6
 and your first telegram in 7 with the versions given below. Decide where
 you have surpassed these versions, where you have fallen short of them.
 
-_Night letter:_ Two factions in company I can buy from enemies
+_Night letter_: Two factions in company I can buy from enemies
 president bare majority stock at average seventy-six but hundred of these
 shares held at ninety-two I could probably get hundred quietly from
 friends president about seventy-seven but president might detect move and
@@ -962,22 +962,22 @@ effective.
 
 <Verbal Discords>
 
-We may pitch our talk or our writing in almost any I key we choose. Our
+We may pitch our talk or our writing in almost any key we choose. Our
 mood may be dreamy or eager or hilarious or grim or blustering or somber
 or bantering or scornful or satirical or whatever we will. But once we
 have established the tone, we should not--except sometimes for broadly
 humorous effects--change it needlessly or without clear forewarning. If we
-do, we create a one or the other of two obstacles, or both of them, for
+do, we create one or the other of two obstacles, or both of them, for
 whoever is trying to follow what we say. In the first place, we obscure
-our meaning. For example, we have; been speaking ironically and suddenly
+our meaning. For example, we have been speaking ironically and suddenly
 swerve into serious utterance; or we have been speaking seriously and then
 incongruously adopt an ironic tone. How are our listeners, our readers to
 take us? They are puzzled; they do not know. In the second place, we
 offend--perhaps in insidious, indefinable fashion--the esthetic
 proprieties; we violate the natural fitness of things. For example, we
 have been speaking with colloquial freedom, sprinkling our discourse with
-_shouldn't_ and _won't;_ suddenly we be come formal and say
-_should not_ and will _not_. Our meaning is as obvious as
+_shouldn't_ and _won't;_ suddenly we become formal and say
+_should not_ and _will not_. Our meaning is as obvious as
 before, but the verbal harmony has been interrupted; our hearers or
 readers are uneasily aware of a break in the unity of tone.
 
@@ -995,12 +995,12 @@ their affinities and antipathies. Thus when he has need of a phrase to
 fill out a verbal dinner party, he will know which one to select.
 
 Certain broad classifications of words are manifest even to the most
-obtuse user of English. _Shady, behead_, and _lying_ are
-"popular" words, while their synonyms _umbrageous_ decapitate,_
+obtuse user of English. _Shady_, _behead_, and _lying_ are
+"popular" words, while their synonyms _umbrageous,_ decapitate,_
 and _mendacious_ are "learned" words. _Flabbergasted_ and
 _higgledy-piggledy_ are "colloquial," while _roseate_ and
-_whilom_ are "literary." _Affidavit, allegro_, _lee shore_,
-and _pinch hit_ are "technical," while _vamp_, _savvy, bum
+_whilom_ are "literary." _Affidavit_, _allegro_, _lee shore_,
+and _pinch hit_ are "technical," while _vamp_, _savvy_, _bum
 hunch_, and _skiddoo_ are "slang." It would be disenchanting
 indeed were extremes of this sort brought together. But offenses of a less
 glaring kind are as hard to shut out as February cold from a heated house.
@@ -1031,7 +1031,7 @@ for the difference in tone between them. Does each keep the tone it adopts
 (that is, except for desirable changes)?
 
 3. Note the changes in tone in the Seven Ages of Man (Appendix 4). Do the
-changes in substance, make these changes in tone desirable?
+changes in substance make these changes in tone desirable?
 
 4. In the following passages, make such changes and omissions as are
 necessary to unify the tone:
@@ -1093,7 +1093,7 @@ same as concrete. Some subtle discriminations may, however, be made. Of
 these the only one that need concern us here is that the wording of a
 passage may not be abstract and yet be general. Suppose, for example, you
 were telling the story of the prodigal son and should say: "He was very
-hungry, and could; not obtain food anywhere. When he had come to his
+hungry, and could not obtain food anywhere. When he had come to his
 senses, he thought, 'I should be better off at home.'" This language is
 not abstract, but it is general rather than specific. When Jesus told the
 story, he wished to put the situation as poignantly as possible and
@@ -1439,7 +1439,7 @@ hearing the words:
 "Steal" and "embezzle"
 "Thievishness" and "kleptomania"
 "Educated" and "highbrow"
-"Job" and "Position"
+"Job" and "position"
 "Told a lie" and "fell into verbal inexactitude"
 "A drunkard" (a stranger) and "a drunkard" (your father).
 
@@ -1786,7 +1786,7 @@ follows is "The aeroplane's future as a carrier of mail." You may convert
 it into a question for debate by making it read: "The aeroplane is
 destined to supplant the railroad as a carrier of mail," or "The aeroplane
 is destined to be used increasingly as a carrier of transcontinental
-mail." In arguing you may propose for ourself either of two objectives:
+mail." In arguing you may propose for yourself either of two objectives:
 (1) to silence your opponent, (2) to refute, persuade, and win him over
 fairly. The achievement of the first end calls for bluster and perhaps a
 grim, barbaric strength; you must do as Johnson did according to
@@ -1938,7 +1938,7 @@ How to keep an automobile in good shape
 How to run an automobile (motor boat)
 How to make a rabbit trap
 How to lay out a camp
-how to catch trout (bass, codfish, tuna fish, lobsters)
+How to catch trout (bass, codfish, tuna fish, lobsters)
 How to conduct a public meeting
 How a bill is introduced and passed in a legislative body
 How food is digested
@@ -2306,7 +2306,7 @@ You will speedily discover that your vocabulary embraces several distinct
 classes of words. Of these the first consists of those words which you
 have at your tongue's end--which you can summon without effort and use in
 your daily speech.  They are old verbal friends. Numbered with them, to be
-sure, there may be few with senses and connotations you are ignorant of--
+sure, there may be a few with senses and connotations you are ignorant of--
 friends of yours, let us say, with a reservation. Even these you may woo
 with a little care into uncurbed fraternal abandon. With the exception of
 these few, you know the words of the first class so well that without
@@ -2762,7 +2762,7 @@ to wag the tail and to _patter_ is to hurry through one's prayers
 (paternoster). What a picture of the frailty of men even in their holiness
 flashes on us from that word _patter! Breakfast is_ the breaking of
 the fast of the night. _Routine_ (the most humdrum of words) is
-travel along a way already broken. _Goodby _is an abridged form of
+travel along a way already broken. _Goodby_ is an abridged form of
 "God be with you." _Dilapidated_ is fallen stone from stone.
 _Daisy_ is "the day's eye," _nasturtium_ (from its spicy smell)
 "the nose-twister," _dandelion_ "the tooth of the lion." _A
@@ -2889,11 +2889,11 @@ scoundrelly spirit, _churl_ a contumelious manner, _boor_ a
 bumptious ill-breeding; not one of these words is any longer confined in
 its application to a particular social rank. Terms for womankind are soon
 tainted. _Wench_ meant at first nothing worse than girl or daughter,
-_quean_ than woman, _hussy_ than housewife; even _woman is_
+_quean_ than woman, _hussy_ than housewife; even _woman_ is
 generally felt to be half-slighting. Terms affirming unacquaintance with
 sin, or abstention from it, tend to be quickly reft of what praise they
-are fraught with; none of us likes to be saluted as _innocent,
-guileless_, or _unsophisticated_, and to be dubbed _silly_ no
+are fraught with; none of us likes to be saluted as _innocent_,
+_guileless_, or _unsophisticated_, and to be dubbed _silly_ no
 longer makes us feel blessed. Besides these and similar classes of words,
 there are innumerable individual terms that have sadly lost caste. An
 _imp_ was erstwhile a scion; it then became a boy, and then a
@@ -3663,7 +3663,7 @@ imagination, he staggered off into the woods and met Old ____ in reality.
 casualty, occasion, accident, incident, mischance, cheat; (2) casuistry,
 coincide, occidental, deciduous.
 
-_Sentences_: The period was a ____ one. He, gave but ____ attention
+_Sentences_: The period was a ____ one. He gave but ____ attention
 to the ____ of the music. On this ____ an ____ befell him. To the general
 it was a mere ____ that his ____ were heavy. As a result of this ____ he
 was accused of trying to ____ them.
@@ -3974,7 +3974,7 @@ scarcely recognizable as human occupied my ____.
 repulse, repulsive, impulse, compulsory, expulsion, appeal; (2) appellate,
 interpellate.
 
-_Sentences_: After the ____ of the attack the, mists along the
+_Sentences_: After the ____ of the attack the mists along the
 lowlands were ____. His manner was ____, even ____. The revolutions of the
 ____ soon ____ the boatmen to shove farther off. After his ____ he ____
 for a rehearing of his case. The act was ____, but he felt an ____ toward
@@ -4000,7 +4000,7 @@ Penny-wise, ____ foolish.
 impetuous, perpetuate, repeat, compete, competent, appetite, centripetal.
 
 _Sentences_: A great ____ force keeps the planets circling about
-the sun. The complaints of a ____ woman led him to ____ the prize. The
+the sun. The complaints of a ____ woman led him to ____ for the prize. The
 sexual ____ leads men to ____ the race. The ____ was pronounced upon ____
 authority to be ill drawn up. With ____ wrath he ____ the assertion. The
 ____ became noticeably weaker.
@@ -4066,7 +4066,7 @@ a ____ in their relationships. It was ____ work.
 
 
 <Sed, sid(e), sess> (seat): (1) sedulous, sedentary, supersede,
-subside, preside, reside, residue, possess, assessment, session, seige;
+subside, preside, reside, residue, possess, assessment, session, siege;
 (2) sediment, insidious, assiduous, subsidy, obsession, see (noun),
 assize.
 
@@ -4095,7 +4095,7 @@ sheriff.
 
 _Sentences_: The ____ had on his face a ____ made by a ____ thrown at
 him. In that ____ an old custom for every one to ____ in the ____ the
-sheep. There was, instead of the usual ____ a cliff that rose from the
+sheep. There was, instead of the usual ____, a cliff that rose from the
 sea. All ____ as the freshman was, he had hardly a ____ of his former
 dignity. The ____ was very one-sided. A ____ of mist was about him.
 
@@ -4174,7 +4174,7 @@ No ____ could cause him to ____. She was ____ in a ____ at the bazaar.
 <Stead> (place): (1 and 2 combined) stead, steadfast, instead,
 homestead, farmstead, roadstead, bestead.
 
-_Sentences:_ ____ of resting in a harbor, the ships were tossed about
+_Sentences_: ____ of resting in a harbor, the ships were tossed about
 in an open ____. Little did it ____ him to cling to the old ____. A ____
 nestled by the highway. To be known as  ____ now stood him in good ____.
 
@@ -4343,7 +4343,7 @@ should be shown. The spiteful man continued to display his ____.
 _Sentences_: The amateur gardener made the ____ discovery that the
 plant was a ____. The ____ celebration of the great man's birth took a
 ____ and imposing form in our city. By a happy coincidence the increase in
-his ____ came on wedding ____.
+his ____ came on his wedding ____.
 
 
 (1) Audit, auditor, auditorium, audience, inaudible, obey;
@@ -4418,7 +4418,7 @@ ____ with the profits that ____ to him. The ____ moon rode in the sky.
 (1) Cure, secure, procure, sinecure, curious, inaccurate;
 (2) curate, curator.
 
-_Sentences_: Occupying the position for a while will ____ of the
+_Sentences_: Occupying the position for a while will ____ you of the
 notion that it is a ____. He was ____ to know so a bookkeeper had managed
 to ____ so high a salary. He ____ the equipment required.
 
@@ -4471,7 +4471,7 @@ the waves ____ as they do. Any more would be ____.
 
 _Sentences_: The defenders of the ____ held out with great ____.
 Though a ____ or two stood at important passes, the border was not really
-____. His ____ was not public speaking. It was only by an ____ that he
+____. His ____ was not public speaking. It was the only by an ____ that he
 could ____ them.
 
 
@@ -4529,7 +4529,7 @@ possible he fell and ____ his hip. It was only ____ in that entire ____.
 (1) Soliloquy, loquacious, loquacity, colloquial, eloquent, obloquy,
 circumlocution, elocution;
 (2) magniloquent, grandiloquent, ventriloquism, interlocutor, locutory,
-allocution. (For related _log_ and _Ology_ words see above under
+allocution. (For related _log_ and _ology_ words see above under
 Prying Into a Word's Relationships.)
 
 _Sentences_:  ____ always, he indulged at this time in a great deal
@@ -4656,8 +4656,7 @@ is this. ____ God.
 
 _Sentences_: She could not ____ the cost. There was some ____ as to
 the cause of his ____. Let them ____ to me what motives they will. Though
-somewhat ____, he was extremely
-solicitous about his ____.
+somewhat ____, he was extremely solicitous about his ____.
 
 
 (1) Abrogate, arrogate, interrogate, arrogant, derogatory, prerogative;
@@ -5251,14 +5250,14 @@ will think of its opposite; at least its opposite will be lurking in the
 back of your mind. As proof of this fact you have only to glance at the
 following list, from which the second member of each pair is omitted:
 
-hot--         black--       boy--        in--
-off--         over--        love--       wrong--
-strong--      wet--         first--      day--
-long--        fast--        good--       hope--
-least--       asleep--      buy--        left--
-alive--       winter--      war--        succeed--
-creditor--    fat--         internal--   wise--
-drunk--
+hot --         black --       boy --        in --
+off --         over --        love --       wrong --
+strong --      wet --         first --      day --
+long --        fast --        good --       hope --
+least --       asleep --      buy --        left --
+alive --       winter --      war --        succeed --
+creditor --    fat --         internal --   wise --
+drunk --
 
 Many words of a more difficult kind are thus pitted against each other,
 and we learn them, not singly, but in pairs. At least we should. As good
@@ -5548,7 +5547,7 @@ He asserted that bears sleep through the winter.
 clothing. The mariner who had swum from the wreck to the desert shore had
 not a shred of costume.
 
-<Comfort, ease.> Comfort after labor. The case of owning a home.
+<Comfort, ease.> Comfort after labor. The ease of owning a home.
 
 <Commercial, mercantile.> Petty commercial transactions. A mercantile
 treaty.
@@ -5814,16 +5813,14 @@ Saxon among the common folk, Latin among the clergy, and Norman-French at
 the court and among the nobility. The coalescing of the three (or of the
 two if we count Latin in its direct and indirect contributions as one) was
 inevitable. But other (mostly cognate) languages also had a part in the
-speech that was ultimately evolved. The Anglo-Saxon element was augmented
-by words from Dutch, Scandinavian, and the
-
-Germanic tongues in general; and Latin was reinforced by Greek. Thus to
-imply, as is sometimes done, that modern English is simply a blend of
-Anglo-Saxon and Latin elements is misleading. _Native_ and
-_classic_ are the better terms to use, provided both are used
-broadly. _Native_ must include not only Anglo-Saxon but the other
-Germanic elements as well, and _classic_ must include French and
-Greek as well as Latin.
+speech that was ultimately evolved. The Anglo-Saxon element was
+augmented by words from Dutch, Scandinavian, and the Germanic tongues in
+general; and Latin was reinforced by Greek. Thus to imply, as is
+sometimes done, that modern English is simply a blend of Anglo-Saxon and
+Latin elements is misleading. _Native_ and _classic_ are the better
+terms to use, provided both are used broadly. _Native_ must include not
+only Anglo-Saxon but the other Germanic elements as well, and _classic_
+must include French and Greek as well as Latin.
 
 The welding of these languages made available two--in some instances more
 than two--words for a single object or idea. What became of these
@@ -5952,7 +5949,7 @@ thin, emaciated       sad, lugubrious        mirth, hilarity
 
 Despite these exceptions, the native word is in general better known
 and more crudely powerful than the classic. Thus of the pair
-_sweat-perspiration, sweat_ is the plain-spoken, everyday member,
+_sweat-perspiration_, _sweat_ is the plain-spoken, everyday member,
 _perspiration_ the polite, even learned member. The man of limited
 vocabulary says _sweat_; even the sophisticated person, unless there
 is occasion to soften effects, finds _sweat_ the more natural term.
@@ -6095,7 +6092,7 @@ His inclinations are absolutely ____."
 qualities a man should possess; it may be used of immature persons.
 _Virile_ implies maturity and robust masculinity; it is also used of
 the power to procreate. "A ____ lad." "A ____ reply." "____ energy."
-"____ and aggressive." "____ forbearance,"
+"____ and aggressive." "____ forbearance."
 
 <Inner, internal>. _Inner_ is somewhat within, or more within
 than something else is; it is also used in figurative and spiritual
@@ -6747,7 +6744,7 @@ if he moves about softly and stealthily, as in search of prey or booty. He
 _hobbles_ if he jerks along unevenly, as from a stiff or crippled
 condition of body. He _limps_ if he walks lamely. He
 _perambulates_ when he walks through, perhaps for observation or
-inspection. _(Perambulates is_ of course a learned word.)
+inspection. _(Perambulates_ is of course a learned word.)
 
 
 _Assignment for further discrimination_: <sneak, shamble, amble,
@@ -6854,7 +6851,7 @@ _ogles_.
 _Assignment for further discrimination_: <leer, view, survey,
 inspect, regard, watch, contemplate>.
 
-_Sentences:_ The inspecting officer ____ the men's equipment. The
+_Sentences_: The inspecting officer ____ the men's equipment. The
 student ____ his lessons carefully. At this unexpected proposal Dobbett
 merely ____. Jimmie ____ at the fellow who had kicked the pup. The
 inquisitive maid ____ into all the the closets. He ____ over his fallen
@@ -6928,7 +6925,7 @@ week. The plays of Oscar Wilde abound in brilliant ____. The speaker's
 ____ to the heckler was incisive and scathing. My ____ to that third
 question in the examination in history was incorrect. The congregation
 read the ____ in unison. You have enumerated objections to my course; here
-is their ____. "This is no ____, thou unfeeling man. To excuse the current
+is their ____. "This is no ____, thou unfeeling man, to excuse the current
 of thy cruelty." There was silence throughout the chamber as the old
 statesman rose to make his ____. To the tenderfoot's remark the guide
 mumbled an indifferent ____. Our appeal for the sufferers elicited but a
@@ -6948,8 +6945,8 @@ _interrogate_ is to question formally, systematically, or thoroughly.
 That to _interpellate_ is to question as of unchallenged right, as in
 a deliberative body. That to _query_ is to bring a thing into
 question because of doubt as to its correctness or truth. That to
-_quiz_is to question closely and persistently, as from
-meddlesomeness, opposition, or curiosity. That to _catechize is_ to
+_quiz_ is to question closely and persistently, as from
+meddlesomeness, opposition, or curiosity. That to _catechize_ is to
 question in a minute, perhaps impertinent, manner in order to ascertain
 one's secrets or the amount of his knowledge or information. That to
 _request_ is to ask formally and politely. That to _beg_ is to
@@ -7001,7 +6998,7 @@ word is learned and but little used in ordinary discourse.) If you burn a
 dead body to ashes, you _cremate_ it. If you burn or sear anything
 with a hot iron or a corrosive substance, you _cauterize_ it.
 
-_Sentences:_ The hired girl ____ the cloth in ironing it. By getting
+_Sentences_: The hired girl ____ the cloth in ironing it. By getting
 too close to the fire he ____ the nap of his flannels. The doctor at once
 ____ the wound. The cook had picked the chicken and now ____ its down over
 the coals. I used to ____ grains of field corn on the cookstove, while my
@@ -7048,7 +7045,7 @@ together_ the various thoughts and aspects of a subject; it shows by
 means of a few effective words just what these amount to, gives a summary
 of them. A _compact_ statement has its units of thought _fastened
 together_ into firmness of structure; its brevity is well-knit. A
-_sententious_ statement gives _feelings_ or opinions_ in a
+_sententious_ statement gives _feelings_ or _opinions_ in a
 strikingly pointed or axiomatic way, so that they can be easily grasped
 and remembered; if _sententious_ is unfavorably used, the statement
 may be filled with paraded platitudes. A _pithy_ statement gives the
@@ -7058,9 +7055,9 @@ manner of _the Spartans_, who hated talk and used as few words as
 possible. A _curt_ statement is _made short_; its abruptness is
 oftentimes more or less rude.
 
-_Sentences_: "A tale should be judicious, clear, ____. The language
+_Sentences_: "A tale should be judicious, clear, ____, the language
 plain, and incidents well link'd." "Charles Lamb made the most ____
-criticism of Spenser when he called him the poet's poet." With a ____
+criticism of Spenser when he called him the poet's poet." With a ____,
 disdainful answer she turned away. The sermon was filled with ____
 sayings. By omitting all irrelevant details, he made his statement of the
 case ____. It requires great skill to give a ____ statement of what such a
@@ -7102,7 +7099,7 @@ been corrupted from its original state.
 _Assignment for further discrimination_: <aboriginal,
 prehistoric.>
 
-_Sentences:_ It was a hardy mountain folk that preserved the ____
+_Sentences_: It was a hardy mountain folk that preserved the ____
 virtues. The ____ history of mankind is shrouded in uncertainty. "This is
 the forest ____." "It hath the ____ eldest curse upon 't, A brother's
 murder." "A ____ leaf is that which is immediately developed from the
@@ -7148,7 +7145,7 @@ _Pecuniary_ refers to practical matters in which money is involved,
 though not usually in large amounts. _Fiscal_ refers especially to
 the time when money, receipts, and accounts are balanced or reckoned.
 
-_Sentences:_ A ____ reward has been offered. We gave the unfortunate
+_Sentences_: A ____ reward has been offered. We gave the unfortunate
 man ____ assistance. The ____ system of the country was sound. It was
 Hamilton who more than any one else shaped the ____ policies of the new
 government. Experts audit the company's accounts at the end of the ____
@@ -7880,7 +7877,7 @@ pole to pole!" "The poppied warmth of ____ oppress'd Her soothéd limbs,
 and soul fatigued away." In Spanish-speaking South American countries
 every one expects to take his ____. He lay down under the tree for a short
 ____ and had just fallen into a preliminary ____ when the picnic party
-arrived. "Macheth does murder ____, the innocent ____, ____ that knits up
+arrived. "Macbeth does murder ____, the innocent ____, ____ that knits up
 the ravel'd sleave of care."
 
 
@@ -7912,7 +7909,7 @@ the first ballot.
 timorous.> (This group may be compared with the _Fear group_,
 below.)
 
-_Sentences:_ One child was to ____ to speak to the strangers; the
+_Sentences_: One child was too ____ to speak to the strangers; the
 other too ____ to do anything but squall. "If Caesar hide himself, shall
 they not whisper 'Lo, Caesar is ____'?" Any one might have been ____ by
 this noise in a room said to be haunted; and for my part, I stood ____.
@@ -7920,7 +7917,7 @@ this noise in a room said to be haunted; and for my part, I stood ____.
 
 <Allay, alleviate, mitigate, assuage, mollify, relieve.>
 
-_Sentences:_ The judge ____ the severity of the punishment. They
+_Sentences_: The judge ____ the severity of the punishment. They
 collected funds to ____ the sufferings of the poor. He could not ____ the
 wrath of the angry man. Shall we try to ____ their fears by telling them
 the accident may have been less calamitous than they have heard? A mustard
@@ -7930,8 +7927,8 @@ her child. This experience had by no means ____ his temper.
 
 <Allow, permit, suffer, tolerate.>
 
-_Sentences:_ Visitors are not ____ to see the king. The over-running
-of yard by the neighbors' chickens is a nuisance I shall not ____.  "____
+_Sentences_: Visitors are not ____ to see the king. The over-running
+of my yard by the neighbors' chickens is a nuisance I shall not ____.  "____
 little children to come unto me." The use of bicycles and velocipedes
 on the pavement, though not ____ by the city, is good-naturedly ____ by
 most of the citizens. She ____ her children to play in the street.
@@ -7939,14 +7936,14 @@ most of the citizens. She ____ her children to play in the street.
 
 <Ascribe, attribute, impute.>
 
-_Sentences:_ I ____ my failure to poor judgment. He ____ sinister
+_Sentences_: I ____ my failure to poor judgment. He ____ sinister
 motives for their actions. So many ideal characteristics have been ____ to
 Washington that it is difficult to think of him as a man.
 
 
 <Awkward, clumsy, ungainly, gawky, lanky.>
 
-_Sentences:_ An elephant is  ____ in its movements. Some ____
+_Sentences_: An elephant is  ____ in its movements. Some ____
 countrymen hung around the circus entrance. He was tall and ____; he
 seemed to be a mere prop on which clothes were hung. Isn't that man ____
 in his carriage? The fingers of the ball-players might as well have been
@@ -8098,7 +8095,7 @@ terrible scene from her memory. "____ all that's made To a green thought
 in a green shade." The cyclone ____ the church. The Spanish Inquisition
 tried to ____ heresy. "____ out the written troubles of the brain."
 The army was not only defeated; it was ____. "A bold peasantry, their
-country's pride. When once ____, can never be supplied."
+country's pride, When once ____, can never be supplied."
 
 
 <Die, expire, perish, decease, succumb.>
@@ -8111,7 +8108,7 @@ many times before their deaths." "The poor beetle, that we tread upon, In
 corporal sufferance finds a pang as great As when a giant giant ____."
 "Government of the people, by the people, for the people, shall not ____
 from the earth." "Thus on Maeander's flowery margin lies Th' ____ swan,
-and as be sings he dies." Over a thousand people ____ in the fire at the
+and as he sings he dies." Over a thousand people ____ in the fire at the
 theater. "To ____, to sleep; to sleep: perchance to dream." He ____ to a
 lingering disease. "Aye, but to ____, and go we know not where; To lie in
 cold obstruction and to rot." "Wind my thread of life up higher, Up,
@@ -8125,7 +8122,7 @@ baptism. She ____ the cloth into the dye. The sophomores ____ the freshmen
 into the icy water of the lake. Paul Jones could not ____ the enemy's
 ship; he therefore resolved to board it. The wreck lay ____ in forty
 fathoms of water. Uncle Tom ____ overboard to rescue the child. When the
-gun is discharged, the loon does not rise from the water; it ____ Lewis
+gun is discharged, the loon does not rise from the water; it ____. Lewis
 became badly strangled when the other boys ____ him.
 
 
@@ -8330,7 +8327,7 @@ ____ of their native land. "God fulfils himself in many ways, Lest one
 good ____ should corrupt the world." It was his ____ to walk among the
 ruins. An old ____ permits a man to kiss a girl who is standing under
 mistletoe. ____ establishes many peculiar idioms in a language. He
-acquired the ____ of smoking. "It is a ____. More honor'd in the breach
+acquired the ____ of smoking. "It is a ____ more honor'd in the breach
 than the observance." De Quincey was a victim of the opium ____. "Age
 cannot wither her, nor ____ stale Her infinite variety." "'Tis not his
 ____ to be the hindmost man."
@@ -8417,7 +8414,7 @@ in America.
 
 <Incline, tip, lean, cant, slant, slope, tilt, list, careen, dip.>
 
-_Sentences:_ He ____ the bucket of water over. The vessel ____ to the
+_Sentences_: He ____ the bucket of water over. The vessel ____ to the
 stern and began to sink. The ship ____ to larboard. He ____ the top of the
 picture away from the wall. The sprinter ____ forward and touched the tips
 of his fingers against the ground. The gable ____ sharply. The hill ____
@@ -8427,7 +8424,7 @@ gently. The cowboy had ____ his hat fetchingly.
 <Journey, voyage, tour, pilgrimage, trip, jaunt, excursion, junket,
 outing, expedition.>
 
-_Sentences:_ The people protested the expenditure of money for a
+_Sentences_: The people protested the expenditure of money for a
 Congressional ____ to investigate the Philippine Islands. Each Sunday
 there is a[n] ____ at half fare between the two cities. He conducted a
 party on a summer ____ through Europe. Last summer I took a[n] ____ to the
@@ -8442,7 +8439,7 @@ Thousands of Mohammedans make an annual ____ to Mecca.
 benevolent, charitable, gracious, humane, sympathetic.> (With this
 group compare the _Cruel_ group, above.)
 
-_Sentences:_  The weather was ____. She was as ____ as a queen. "Thou
+_Sentences_:  The weather was ____. She was as ____ as a queen. "Thou
 dost wear The Godhead's most ____ grace." Cowper was too ____ to tread
 upon a worm needlessly. A judge in sentencing a convicted man may be as
 ____ as circumstances and the law allow. ____ neutrality. "Blessed are the
@@ -8481,7 +8478,7 @@ _Sentences_: "However old a ____ union, it still garners some
 sweetness." A court of ____ relations. "Contented toil, and hospitable
 care, And kind ____ tenderness are there." "To the ____ bower I led her,
 blushing like the morn." She finally decided that he had no ____
-intentions. "And hears the unexpressive ____ song In the lest kingdoms
+intentions. "And hears the unexpressive ____ song In the blest kingdoms
 meek of joy and love."
 
 
@@ -8544,13 +8541,13 @@ leer, And without sneering teach the rest to sneer."
 rupture, dispute, dissension, bickering, wrangle, broil, squabble, row,
 rumpus, ruction, spat, tiff, fuss, jar, feud.>
 
-_Sentences:_ It was only a little ____ between lovers. The ____
+_Sentences_: It was only a little ____ between lovers. The ____
 between the partners was over the right of the senior to make contracts
 for the firm; it grew into an angry ____. It was a long-drawn political
 ____. At the meeting of our committee the chairman and one of the members
 had a sharp ____ over a point of order. A[n] ____ in some minor matters
 led to a[n] ____ in their friendship. "Thrice is he armed that hath his
-____ just" Those chattering, choleric fellows are always engaged in ____;
+____ just." Those chattering, choleric fellows are always engaged in ____;
 last night they on meeting had a[n] ____ which brought on a long-drawn
 ____, and when their friends joined in, there was a noisy ____. I have
 seen all sorts of ____, from a trivial childish ____ to a grim ____ of
@@ -8559,7 +8556,7 @@ mountaineers.
 
 <Raise, lift, heave, hoist, erect, rear, elevate, exalt, enhance.>
 
-_Sentences:_ Let the Lord be ____. "As some tall cliff that ____ its
+_Sentences_: Let the Lord be ____. "As some tall cliff that ____ its
 awful form." Because of this success his reputation was ____. The horse
 ____ when the machine began to ____ the huge block of stone by means of a
 crane. "I will ____ up mine eyes unto the hills, from whence cometh my
@@ -8569,7 +8566,7 @@ ____ it into the wagon.
 
 <Relinquish, waive, renounce, surrender, forego, resign, abdicate.>
 
-_Sentences:_ The defense ____ objection to the first of these points.
+_Sentences_: The defense ____ objection to the first of these points.
 The refugee was willing to ____ his right to resist extradition. The
 teacher ____ her position at the end of the year. The king ____ when the
 people rose in revolt. He ____ his command of the army. Do you ____ your
@@ -8599,11 +8596,11 @@ subordinate.
 
 <Robber, bandit, brigand, ladrone, desperado, buccaneer, freebooter,
 pirate, corsair, raider, burglar, footpad, highwayman, depredator,
-spoiler, despoiler, forager, pillager, plunderer, marauder, myrmimdon>.
+spoiler, despoiler, forager, pillager, plunderer, marauder, myrmidon>.
 (With this group compare the _Steal_ group, below.)
 
 _Sentences_: Every boy has his period of wanting to be a ____.
-_Treasure Island is_ one of the best ____ stories ever written.
+_Treasure Island_ is one of the best ____ stories ever written.
 The ____ lurks in dark passageways and steals upon his victim. The fierce
 followers of Achilles were called ____. The men sent out by the army as
 ____ seemed to the people of the countryside more like ____. The fearless
@@ -8644,12 +8641,12 @@ sparkle, twinkle, dazzle, glimmer, glow, radiate, scintillate,
 coruscate>.
 
 _Sentences_: The gorgeous parade ____ the boy. "____, ____, little
-star." He was witty that night; he fairly ____ At this compliment the old
+star." He was witty that night; he fairly ____. At this compliment the old
 lady ____. "Now fades the ____ landscape on the sight." A rocket ____ in
 the darkness. She ____ her elderly wooer a look of defiance; then her eyes
 softened and ____ with amusement. "All that ____ is not gold." "How far
 that little candle throws his beams! So ____ a good deed in a naughty
-world.". The old man ____ into sudden anger.
+world." The old man ____ into sudden anger.
 
 
 <Slander, defame, asperse, calumniate, traduce, vilify, malign, libel,
@@ -8679,8 +8676,8 @@ carol, lilt>.
 
 _Sentences_: "They learn in suffering what they teach in ____."
 The mother crooned a[n] ____ to her babe. The Highland girl sang a moving
-old ____ worshipers sang a[n] ____ of praise. Charles Wesley wrote many
-____. As I approached the cathedral, I could hear the ____ of lark's
+old ____. The worshipers sang a[n] ____ of praise. Charles Wesley wrote many
+____. As I approached the cathedral, I could hear the ____ of larks
 outside and the ____ of the choir within. "Our sweetest ____ are those
 that tell of saddest thought." "A[n] ____ for her the doubly dead in that
 she died so young."
@@ -8696,7 +8693,7 @@ against The deep damnation of his taking-off." "Here, under leave of
 Brutus and the rest, ... Come I to ____ in Caesar's funeral." "Ay me! what
 act, That ____ so loud and ____ in the index?" "Hadst thou thy wits and
 didst ____ revenge, It could not move thus." "Thou canst not ____ of that
-thou dost not feel." "Nay, if thou'lt mouth, I' ____ as well as thou."
+thou dost not feel." "Nay, if thou'lt mouth, I'll ____ as well as thou."
 While the politician ____ in the senate chamber upon theoretical ills, the
 agitator outside ____ the mob about actual ones. "For murder, though it
 have no tongue, will ____ With most miraculous organ."
@@ -8743,12 +8740,12 @@ wickedness." The guests ____ in the cheerful drawing-room.
 poach>. (With this group, which excludes the idea of violence, compare
 the _Robber_ group, above.)
 
-_Sentences:_ I am of raid that our son ____ the purse from the
+_Sentences_: I am afraid that our son ____ the purse from the
 gentleman. No one knows how long the cashier has been ____ the funds of
 the bank. To take our money on such unsound security is to ____ us. He
 slyly ____ a handkerchief or two. This paragraph is clearly ____. "Thou
 shalt not ____." Many government employees seem to think that to ____ is
-their privilege and prerogative. The crown jewels have been ____, She ____
+their privilege and prerogative. The crown jewels have been ____. She ____
 a number of petty articles. A well-known detective story by Poe is called
 _The ____ Letter._ "Who ____ my purse ____ trash.... But he that ____
 from me my good name Robs me of that which not enriches him, And makes me
@@ -8789,7 +8786,7 @@ the embarrassed young man ____, the child ____ the tale-bearer ____, the
 hostess ____ with the most distinguished guest, and the trickster ____
 with his intended victim. "Blest with each talent and each art to please,
 And born to write, ____, and live with ease." "I wonder that you will
-still be ____ Signor Benedick; nobody marks you."
+still be ____, Signor Benedick; nobody marks you."
 
 
 <Tear, rend, rip, lacerate, mangle.>
@@ -8830,7 +8827,7 @@ one of them turned on him and ____ him thoroughly.
 <Wicked, sinful, felonious, illegal, immoral, heinous, flagitious,
 iniquitous, criminal, vicious, vile.>
 
-_Sentences:_ "I am fled From this ____ world, with ____ worms to
+_Sentences_: "I am fled From this ____ world, with ____ worms to
 dwell." A[n] ____ assault. "The ____ prize itself Buys out the law." It
 was, though not a[n] ____ act, a most ____ one. "There the ____ cease from
 troubling; and there the weary be at rest."
@@ -8839,7 +8836,7 @@ troubling; and there the weary be at rest."
 <Young, youthful, boyish, girlish, juvenile, puerile, immature, callow,
 adolescent.>
 
-_Sentences:_ The plan had all the faults of ____ judgment. Many great
+_Sentences_: The plan had all the faults of ____ judgment. Many great
 authors have written books of ____ fiction. The bird, which was still
 ____, was of course unable to fly. "Such sights as ____ poets dream On
 summer eves by haunted stream." He was in that ____ stage of development
@@ -8907,7 +8904,7 @@ Wilful perpetuations of unworthy actions brand with most indelible
 characters of _infamy_ the name and memory to posterity.
 
 And when his long public life, so singularly chequered with good and evil,
-with glory and _obloquy_, bad at length closed forever, it was to
+with glory and _obloquy_, had at length closed forever, it was to
 Daylesford that he retired to die.
 
 Great _opprobrium_ has been thrown on her name.
@@ -9684,11 +9681,11 @@ ideas here are varied, even contradictory, enough; yet _good_ may be
 used of every one of them. _Good_ is in truth so general a term that
 we must know the attendant circumstances if we are to attach to it a
 signification even approximately accurate. This does not at all imply that
-_good is_ a term we may brand as useless. It implies merely that when
+_good_ is a term we may brand as useless. It implies merely that when
 our meaning is specific we must set _good_ aside (unless
 circumstances make its sense unmistakable) in favor of a specific word.
 
-_Things is_ another very general term. In "Let us wash up the things"
+_Things_ is another very general term. In "Let us wash up the things"
 it likely means dishes or clothes. In "Hang your things in the closet" it
 likely means clothes. In "Put the things in the tool-box" it likely means
 tools. In "Put the things in the sewing-basket" it likely means thread,
@@ -9741,7 +9738,7 @@ a child of unusual intelligence; two as applied to an occasion that
 promises to turn out well; two as applied to a career that has been
 signally successful.
 
-<Clear.> Give five synonyms for clear as applied to water: ten as
+<Clear.> Give five synonyms for clear as applied to water; ten as
 applied to a fact or a statement; three as applied to the sky or
 atmosphere; three as applied to the voice; two as applied to a passageway
 or a view; three as applied to one's judgment or thinking.
@@ -9760,7 +9757,7 @@ discharged the gun"; three in the sentence "The sore discharged pus"; two
 in the sentence "My neighbor discharged the debt"; two in the sentence "He
 discharged his duty."
 
-<Dull>. Name three words besides <I>dull_ that could be applied to
+<Dull>. Name three words besides _dull_ that could be applied to
 a blade or a point; five to a person with slow intellect; three to
 indifference toward others; two to a color; three to a day that is not
 cheerful; five to talk or discourse that is not interesting.
@@ -10180,8 +10177,8 @@ They have not been discussed or attached to any list. Many are not
 entirely new. They have appeared, but not received such emphasis that they
 are sure to stand fast in your memory. Or some cognate form of them may
 have been mastered, yet they themselves may remain unknown. Thus you may
-know _commendation_ but not _commendatory, credulous_ but not
-_incredulity, invalid_ but not _invalidate_ or
+know _commendation_ but not _commendatory_, _credulous_ but not
+_incredulity_, _invalid_ but not _invalidate_ or
 _invalidity_. One of the best of all ways to extend your vocabulary
 is to make each word of your acquaintance introduce you to its immediate
 kinsmen, those grouped with it on the same page of the dictionary.
@@ -10211,7 +10208,7 @@ to you.
 
 These benefits were not inherent in the course he had taken; they were
 purely ____. Anything which existed before Noah's flood is called ____.
-His left hand, which had ceased, to grow during his childhood, was now
+His left hand, which had ceased to grow during his childhood, was now
 withered from its long ____. Certain books once belonging to the Bible
 have been discarded by the Protestants as ____. When Shakespeare makes
 Hector quote Aristotle, who lived long after the siege of Troy, he is
@@ -10406,7 +10403,7 @@ procrastinate, prodigal, prodigious, prodigy, profligate, progenitor,
 proletarian, prolific, prolix, promiscuous, promissory, propaganda,
 propensity, prophylactic, propinquity, propitiatory, propitious,
 proprietary, prorogue, proselyte, prototype, protuberant, provender,
-proximity, prurient, psychical, psychological, puerile, pug-nacious,
+proximity, prurient, psychical, psychological, puerile, pugnacious,
 puissant, punctilious, pungent, punitive, pusillanimous, putrescent,
 pyrotechnics.
 
@@ -10460,7 +10457,7 @@ Christ died for others; it was a ____ death. The most notable quality in
 Defoe's narrative is its likeness to actual facts, or in a word, its ____.
 
 Ubiquity, ulterior, ululation, umbrage, unanimous, undulate, urbanity,
-usurious, uxorious, vacillate, vacuous, vandalism, variegate velocity,
+usurious, uxorious, vacillate, vacuous, vandalism, variegate, velocity,
 venal, venereal, venial, venous, veracious, verdant, verisimilitude,
 vernacular, versatile, vestal, vibratory, vicarious, vicissitude,
 virulence, viscid, viscous, vitiate, vitreous, vituperate, vivacious,
@@ -10501,7 +10498,7 @@ All this is conditioned upon labor faithful and steadfast. Without labor
 you will never be adept. At the outset of our study together we warned you
 that, though we should gather the material and point the way, you yourself
 must do the work. This book is not one to glance through. It is one to
-dwell with, to toil with. It exacts much of you-makes you, for each page
+dwell with, to toil with. It exacts much of you--makes you, for each page
 you turn, pay with the sweat of your brain.
 
 But, assuming that you have done your part, what have you gained? Without
@@ -10528,19 +10525,19 @@ past that otherwise would remain obscure. How much keener, for example, is
 your understanding of Shakespeare's passage on the Seven Ages of Man
 because of your thorough acquaintance with the single word
 _pantaloon_! How quickly does the awe for big words slip from you
-when you perceive that _precocious is_ in origin the equivalent of
-_half-baked!_ What intimacy of insight into words you feel when you
-find that a _companion is_ a _sharer of one's bread_! What a
+when you perceive that _precocious_ is in origin the equivalent of
+_half-baked_! What intimacy of insight into words you feel when you
+find that a _companion_ is a _sharer of one's bread_! What a
 linking of language with life you discover when you learn the original
 signification of _presently_, of _idiot_, of _rival_, of
 _sandwich_, of _pocket handkerchief_! And what revelations as
 into a mystic fraternalism with words do you obtain when you confront
-such a phrase as "the bank _teller_" or "cut to the _quick"!
+such a phrase as "the bank _teller_" or "cut to the _quick_"!
 
-_Not only have words become more like living beings to you; you have
+Not only have words become more like living beings to you; you have
 learned to think of them in relations analogous to the human. You can
 detect the blood kinship, for example, between _prescribe_ and
-_manuscript_, and know that the strain of _fact_ or fie or fy in
+_manuscript_, and know that the strain of _fact_ or _fie_ or _fy_ in
 a word is pretty sure to betoken making or doing. You know that there are
 elaborate intermarriages among words. You recognize _phonograph_, for
 example, as a married couple; you even have confidential word as to the
@@ -10877,7 +10874,7 @@ Southern, of education, of the remoteness of situation from the first
 mover of government-from all these causes a fierce spirit of liberty has
 grown up. It has grown with the growth of the people in your Colonies, and
 increased with the increase of their wealth; a spirit that unhappily
-meeting with an exercise of power in England which, however lawful, is noc
+meeting with an exercise of power in England which, however lawful, is not
 reconcilable to any ideas of liberty, much less with theirs, has kindled
 this flame that is ready to consume us.
 
@@ -10893,7 +10890,7 @@ Behold, a sower went forth to sow;
 And when he sowed, some seeds fell by the way side,
 and the fowls came and devoured them up:
 
-Some fell upon stony places, where they bad not much earth:
+Some fell upon stony places, where they had not much earth:
 and forthwith they sprung up, because they had no deepness of earth:
 
 And when the sun was up, they were scorched;
@@ -10910,7 +10907,7 @@ When any one heareth the word of the kingdom, and understandeth it not,
 then cometh the wicked one, and catcheth away that which was sown in his
 heart. This is he which received seed by the way side.
 
-But be that received the seed into stony places, the same is he
+But he that received the seed into stony places, the same is he
 that heareth the word, and anon with joy receiveth it.
 
 Yet he hath not root in himself, but dureth for a while: for when
@@ -10939,7 +10936,7 @@ They have their exits and their entrances;
 And one man in his time plays many parts,
 His acts being seven ages. At first the infant,
 Mewling and puking in the nurse's arms.
-And then the whaling school-boy, with his satchel,
+And then the whining school-boy, with his satchel,
 And shining morning face, creeping like snail
 Unwillingly to school. And then the lover,
 Sighing like furnace, with a woful ballad
@@ -10990,9 +10987,9 @@ land looked more frightful than the sea.
 
 After we had rowed, or rather driven, about a league and a half, as we
 reckoned it, a raging wave, mountain-like, came rolling astern of us, and
-plainly bade us expect the _coup de grace_. In a word, it took us
+plainly bade us expect the _coup de grâce_. In a word, it took us
 with such a fury that it overset the boat at once; and separating us as
-well from the boat as from one another, gave its not time hardly to say,
+well from the boat as from one another, gave us not time hardly to say,
 "O God!" for we were all swallowed up in a moment.
 
 Nothing can describe the confusion of thought which I felt, when I sank
@@ -11065,7 +11062,7 @@ may say, wrapt up in a contemplation of my deliverance; making a thousand
 gestures and motions, which I cannot describe; reflecting upon all my
 comrades that were drowned, and that there should not be one soul saved
 but myself; for, as for them, I never saw them afterwards, or any sign of
-them, except three of their bats, one cap, and two shoes that were not
+them, except three of their hats, one cap, and two shoes that were not
 fellows.
 
 I cast my eyes to the stranded vessel, when, the breach and froth of the
@@ -11075,7 +11072,7 @@ considered, Lord! how was it possible I could get on shore?
 After I had solaced my mind with the comfortable part of my condition, I
 began to look round me, to see what kind of place I was in, and what was
 next to be done: and I soon found my comforts abate, and that, in a word,
-I bad a dreadful deliverance: for I was wet, had no clothes to shift me,
+I had a dreadful deliverance: for I was wet, had no clothes to shift me,
 nor anything either to eat or drink, to comfort me; neither did I see any
 prospect before me but that of perishing with hunger, or being devoured by
 wild beasts: and that which was particularly afflicting to me was, that I
